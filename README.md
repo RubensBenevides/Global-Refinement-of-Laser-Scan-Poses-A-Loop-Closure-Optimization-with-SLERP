@@ -1,2 +1,2 @@
 # Global-Refinement-of-Laser-Scan-Poses-A-Loop-Closure-Optimization-with-SLERP
-This repository contains just one python script with all functions necessary
+This repository contains just one python script with all functions necessary to reproduce the results of the publication "Global Refinement of Laser Scanner Poses – A Closed-form Loop Closure Optimization". All functions on the script are heavy commented with details. All the data necessary is some set of clouds in a closed circuit, which are available in the folder "clouds". If you don't wanna do all the registration necessary to see the point clouds organized, just apply the poses in the folder "poses_absolutas_FGR_SLERP_LUM" on them. Relative poses between peers are available on the folder. 
